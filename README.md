@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🥪 Sandeep Muttvarpu
+# Sandeep Muttvarpu
 ### Systems & High-Performance Inference Engineer | Creator of [Sandwich.cpp](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp)
 
 <p align="center">
