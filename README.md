@@ -26,12 +26,6 @@
 ### ⚡ Overview
 
 * 🥪 **Creator of [Sandwich.cpp](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp)**: Standalone C++/CUDA inference engine breaking the memory wall on budget hardware.
-* ⚡ **54 Active Techniques**: Pipelined speculative decoding, AVX2-VNNI P-core vectorization, and zero-allocation CUDA kernels.
-* 🧠 **TurboQuant Polar KV Cache**: Up to 8× compression (`turbo4`, `turbo3`, `turbo2`) via Walsh-Hadamard pre-rotation + Lloyd-Max codebooks.
-* 📐 **Closed-Form Dual-Axis Variance Normalization**: Eliminates long-horizon reasoning drift with exact norm conservation ($\|\hat{\mathbf{v}}\|^2 \equiv \|\mathbf{v}\|^2$).
-* 🚀 **Phase 12 3-Tier MoE Engine**: Dynamic storage hierarchy (GDDR6 VRAM $\to$ DDR5 2MB THP $\to$ NVMe Linux kernel `io_uring` direct DMA).
-* 🎯 **Asymmetric Split-KV & 70% RAM Rule**: 100% weights in host DDR5, 100% VRAM dedicated to attention and drafters, 0 PCIe bubbles.
-* 📊 **1,140 Verified Benchmark Corpus**: Evaluated across 11 heavyweight models (10B to 117B) up to 128k context on an 8GB laptop GPU.
 * 📄 **Academic Systems Whitepaper (v5.0)**: Formal IMRaD systems preprint compiling comprehensive empirical evaluations.
 * 🖥️ **Primary Testbed**: Arch Linux • Intel Core i7-13620H (6P+4E) • NVIDIA GeForce RTX 5050 Mobile 8GB GDDR6 (sm_120 Blackwell).
 * 📫 **Connect**: Reach out at [sandeepmuttvarpu@gmail.com](mailto:sandeepmuttvarpu@gmail.com) or explore [Sandwich-cpp](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp).
