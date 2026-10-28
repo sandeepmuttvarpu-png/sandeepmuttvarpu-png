@@ -26,7 +26,6 @@
 ### ⚡ Overview
 
 * 🥪 **Creator of [Sandwich.cpp](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp)**: Standalone C++/CUDA inference engine breaking the memory wall on budget hardware.
-* 📄 **Academic Systems Whitepaper (v5.0)**: Formal IMRaD systems preprint compiling comprehensive empirical evaluations.
 * 🖥️ **Primary Testbed**: Arch Linux • Intel Core i7-13620H (6P+4E) • NVIDIA GeForce RTX 5050 Mobile 8GB GDDR6 (sm_120 Blackwell).
 * 📫 **Connect**: Reach out at [sandeepmuttvarpu@gmail.com](mailto:sandeepmuttvarpu@gmail.com) or explore [Sandwich-cpp](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp).
 
