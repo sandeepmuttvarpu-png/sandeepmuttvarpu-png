@@ -9,15 +9,7 @@
 
 <!-- Badges -->
 [![Sandwich.cpp Core](https://img.shields.io/badge/Project-Sandwich.cpp-brightgreen?style=for-the-badge&logo=c%2B%2B)](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp)
-[![54 Active Techniques](https://img.shields.io/badge/Techniques-54%20Active%20%E2%9A%A1-orange?style=for-the-badge)](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp)
-[![CUDA 13.4 | sm_120](https://img.shields.io/badge/CUDA-13.4%20%7C%20sm__120%20Blackwell-green?style=for-the-badge&logo=nvidia)](https://developer.nvidia.com/cuda-toolkit)
-[![Context: 128k Verified](https://img.shields.io/badge/Context-128k%20Verified%20%F0%9F%A7%A0-blueviolet?style=for-the-badge)](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp)
 [![VRAM: 8GB Friendly](https://img.shields.io/badge/VRAM-8GB%20Friendly%20%F0%9F%92%AA-76B900?style=for-the-badge&logo=nvidia)](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp)
-[![KV Quant: TurboQuant](https://img.shields.io/badge/KV%20Cache-TurboQuant%204b%2F3b%2F2b-blue?style=for-the-badge)](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp)
-[![Norm Conservation](https://img.shields.io/badge/Scale%20Invariance---turboquant--varn-cyan?style=for-the-badge)](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp)
-[![MoE Engine](https://img.shields.io/badge/MoE-Phase%2012%203--Tier%20Hierarchy-red?style=for-the-badge)](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp)
-[![Throughput: 35+ tok/s](https://img.shields.io/badge/Throughput-35%2B%20tok%2Fs%20MoE-critical?style=for-the-badge)](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp)
-[![Whitepaper: v5.0](https://img.shields.io/badge/Whitepaper-v5.0%20Systems%20Edition-success?style=for-the-badge)](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp)
 
 </div>
 
