@@ -32,22 +32,6 @@
 
 ---
 
-### 🐍 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandeepmuttvarpu-png/sandeepmuttvarpu-png/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandeepmuttvarpu-png/sandeepmuttvarpu-png/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/sandeepmuttvarpu-png/sandeepmuttvarpu-png/output/github-contribution-grid-snake.svg">
-</picture>
-
-[![Generate Contribution Snake](https://github.com/sandeepmuttvarpu-png/sandeepmuttvarpu-png/actions/workflows/snake.yml/badge.svg)](https://github.com/sandeepmuttvarpu-png/sandeepmuttvarpu-png/actions/workflows/snake.yml)
-
-</div>
-
----
-
 ### ⚡ Analytics & Streaks
 
 <div align="center">
