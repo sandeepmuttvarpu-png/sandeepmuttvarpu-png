@@ -21,7 +21,7 @@
 ### ⚡ Overview
 
 * 🥪 **Creator of [Sandwich.cpp](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp)**: High-performance C++/CUDA inference engine fusing 80 active hardware & algorithmic techniques ([Whitepaper v8.0](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp/blob/main/docs/whitepaper.md): GPUDirect Storage cuFile DMA, Sequence-Parallel Flash-Decoding across 32 SMs, PagedAttention with CoW, P2P Polar Cluster Mesh, 3-Tier MoE io_uring DMA streaming, 2-Bit Polar Lloyd-Max CUDA quantization, and zero-tuning Dynamic YaRN 128k context) to run 120B models on budget 8GB laptops.
-* 🎬 **Creator of [AutoClip-Local](https://github.com/sandeepmuttvarpu-png/autoclip-local)**: 100% local, GPU-accelerated video clipping & vertical shorts repurposing engine powered by direct HTTP stream slicing, faster-whisper, and NVIDIA NVENC (33/33 test-verified suite).
+* 🎬 **Creator of [AutoClip-Local](https://github.com/sandeepmuttvarpu-png/autoclip-local)**: 100% local, GPU-accelerated video clipping & vertical shorts repurposing engine powered by direct HTTP stream slicing, faster-whisper, and NVIDIA NVENC (34/34 test-verified suite).
 * 🖥️ **Primary Testbed**: Arch Linux • Intel Core i7-13620H (6P+4E) • NVIDIA GeForce RTX 5050 Mobile 8GB GDDR6 (sm_120 Blackwell) • 24GB DDR5 RAM.
 * 📫 **Connect**: Reach out at [sandeepmuttvarpu@gmail.com](mailto:sandeepmuttvarpu@gmail.com) or explore [Sandwich-cpp](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp).
 
