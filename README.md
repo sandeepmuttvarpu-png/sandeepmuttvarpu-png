@@ -33,10 +33,12 @@
 | Milestone / Capability | Benchmark Testbed | Empirical Performance Delta | Audit Verification |
 |---|---|---|---|
 | **Blackwell Native NVFP4 Tensor Core MMA** | RTX 5050 Laptop (sm_120) | **11.93x speedup** (2.66 ms vs 31.77 ms scalar baseline) | Techniques #22 & #32 PROVEN |
+| **Pinned Host Zero-Copy PCIe DMA (`cudaHostRegister`)** | RTX 5050 Laptop (sm_120) | **+173.02% bandwidth** (24.90 GB/s vs 9.12 GB/s, 11.94x $2\sigma$) | Technique #6 PROVEN |
 | **Multi-Head Latent Attention (FlashMLA)** | DeepSeek Coder V2 Lite | **290.43x micro-speedup** / **+46.3% prefill t/s** ($D_{kq}=576, D_v=512$) | Techniques #11 & #46 PROVEN |
 | **Hybrid Recurrent State Instant Rollback** | Liquid LFM2 Hybrid SSM | **47.56x speedup** ($0.14$ ms vs $6.77$ ms cold reeval) | Techniques #15 & #50 PROVEN |
 | **Contiguous Single-Allocation Expert Slabs** | Qwen 35B A3B MoE | **59.49 ms latency reduction** (64.39% allocation speedup) | Technique #51 PROVEN |
-| **Forensic Aggregate Confidence** | Canonical 74 Catalog | **53.00 / 74 (0.716)** with 33 verified PROVEN techniques | `validate_ledger.py` (37/37 PASS) |
+| **Issue #7 Recurrent State Diagnostic Suite** | Kolibri, Mimo2, Plamo3, Muse | Automated NMSE verification & early step divergence isolation | Active Diagnostic Suite |
+| **Forensic Aggregate Confidence** | Canonical 74 Catalog | **53.00 / 74 (0.716)** with 34 verified PROVEN techniques | `validate_ledger.py` (37/37 PASS) |
 
 ---
 
