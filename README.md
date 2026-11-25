@@ -1,45 +1,41 @@
 <div align="center">
 
 # Sandeep Muttvarpu
-### Systems & High-Performance Inference Engineer | Creator of [Sandwich.cpp](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp)
+### 16yo Student & Builder | C++, CUDA & Local AI Inference | Creator of [Sandwich Engine](https://github.com/sandeepmuttvarpu-png/sandwich-engine)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Optimizing+CUDA+kernels+down+to+the+warp+registers...%3BShattering+the+128k+context+barrier+on+8GB+VRAM...%3B3-Tier+MoE+streaming%3A+GDDR6+-%3E+DDR5+THP+-%3E+NVMe+io_uring...%3BExact+unit-variance+norm+conservation%3A+%7C%7Cv%7C%7C%5E2+equiv+%7C%7Cv%7C%7C%5E2..." alt="Dynamic Terminal Typing Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Optimizing+CUDA+kernels+down+to+the+warp+registers...%3BShattering+the+128k+context+barrier+on+8GB+VRAM...%3B3-Tier+MoE+streaming%3A+GDDR6+-%3E+DDR5+THP+-%3E+NVMe+io_uring..." alt="Dynamic Terminal Typing Tagline" />
 </p>
 
 <!-- Badges -->
-[![Sandwich-engine Core](https://img.shields.io/badge/Project-Sandwich.cpp-brightgreen?style=for-the-badge&logo=c%2B%2B)](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp)
-[![Audit Confidence: 53.00/74 (0.716)](https://img.shields.io/badge/Audit%20Confidence-53.00%2F74%20(0.716)-brightgreen?style=for-the-badge&logo=shield)](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp)
-[![Techniques: 80 Active](https://img.shields.io/badge/Techniques-80%20Active-orange?style=for-the-badge&logo=fastapi)](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp)
-[![Whitepaper: v8.0 Systems](https://img.shields.io/badge/Whitepaper-v8.0%20Systems-red?style=for-the-badge&logo=arxiv)](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp/blob/main/docs/whitepaper.md)
-[![Context: 128k Verified](https://img.shields.io/badge/Context-128k%20Verified-blueviolet?style=for-the-badge)](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp)
-[![VRAM: 8GB Friendly](https://img.shields.io/badge/VRAM-8GB%20Friendly%20%F0%9F%92%AA-76B900?style=for-the-badge&logo=nvidia)](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp)
+[![Sandwich Engine](https://img.shields.io/badge/Project-Sandwich%20Engine-brightgreen?style=for-the-badge&logo=c%2B%2B)](https://github.com/sandeepmuttvarpu-png/sandwich-engine)
+[![Whitepaper](https://img.shields.io/badge/Docs-Whitepaper-red?style=for-the-badge&logo=arxiv)](https://github.com/sandeepmuttvarpu-png/sandwich-engine/blob/main/docs/whitepaper.md)
+[![VRAM: 8GB Friendly](https://img.shields.io/badge/VRAM-8GB%20Friendly-76B900?style=for-the-badge&logo=nvidia)](https://github.com/sandeepmuttvarpu-png/sandwich-engine)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sandeep-muttvarpu-983851414/)
 
 </div>
 
 ---
 
-### ⚡ Overview
+### ⚡ What I'm Building
 
-* 🥪 **Creator of [Sandwich-engine](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp)**: High-performance C++/CUDA inference engine fusing 80 active hardware & algorithmic techniques ([Whitepaper v8.0](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp/blob/main/docs/whitepaper.md): GPUDirect Storage cuFile DMA, Sequence-Parallel Flash-Decoding across 32 SMs, PagedAttention with CoW, P2P Polar Cluster Mesh, 3-Tier MoE io_uring DMA streaming, 2-Bit Polar Lloyd-Max CUDA quantization, and zero-tuning Dynamic YaRN 128k context) to run 120B models on budget 8GB laptops.
-* 🎬 **Creator of [AutoClip-Local](https://github.com/sandeepmuttvarpu-png/autoclip-local)**: 100% local, GPU-accelerated video clipping & vertical shorts repurposing engine powered by direct HTTP stream slicing, faster-whisper, and NVIDIA NVENC (34/34 test-verified suite).
-* 🖥️ **Primary Testbed**: Arch Linux • Intel Core i7-13620H (6P+4E) • NVIDIA GeForce RTX 5050 Mobile 8GB GDDR6 (sm_120 Blackwell) • 24GB DDR5 RAM.
-* 📫 **Connect**: Reach out at [sandeepmuttvarpu@gmail.com](mailto:sandeepmuttvarpu@gmail.com) or explore [Sandwich-cpp](https://github.com/sandeepmuttvarpu-png/Sandwich-cpp).
+* 🥪 **[Sandwich Engine](https://github.com/sandeepmuttvarpu-png/sandwich-engine)**: Bare-metal C++/CUDA MoE inference engine derived from `llama.cpp` ([Whitepaper](https://github.com/sandeepmuttvarpu-png/sandwich-engine/blob/main/docs/whitepaper.md)) — built to run large models and 128k context on 8GB consumer GPUs using GPUDirect Storage `cuFile` DMA, Sequence-Parallel Flash-Decoding, PagedAttention with CoW, 3-tier `io_uring` MoE streaming, 2-bit Polar quantization, and Dynamic YaRN.
+* 🎬 **[AutoClip-Local](https://github.com/sandeepmuttvarpu-png/autoclip-local)**: 100% local, GPU-accelerated video clipping & vertical shorts engine powered by direct HTTP stream slicing, `faster-whisper`, and NVIDIA NVENC.
+* 🖥️ **Primary Testbed**: Arch Linux • Intel Core i7-13620H (6P+4E) • NVIDIA GeForce RTX 5050 Mobile 8GB GDDR6 (`sm_120` Blackwell) • 24GB DDR5 RAM.
+* 📫 **Connect**: [LinkedIn](https://www.linkedin.com/in/sandeep-muttvarpu-983851414/) • [sandeepmuttvarpu@gmail.com](mailto:sandeepmuttvarpu@gmail.com)
 
 ---
 
-### ⚡ Analytics & Streaks
+### 📊 GitHub Stats
 
 <div align="center">
 
-<!-- GitHub Readme Streak Stats -->
 <a href="https://github.com/sandeepmuttvarpu-png">
   <img src="https://streak-stats.demolab.com/?user=sandeepmuttvarpu-png&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
 </a>
 
 <br><br>
 
-<!-- GitHub Stats & Top Languages Cards -->
 <a href="https://github.com/sandeepmuttvarpu-png">
   <img src="https://github-readme-stats.vercel.app/api?username=sandeepmuttvarpu-png&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" alt="GitHub Profile Stats" height="175" />
 </a>
